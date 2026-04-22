@@ -55,7 +55,7 @@ If you need help or have questions:
 
 - Email: [hello.medhira@gmail.com](https://medhira.readthedocs.io/en/latest/)
 - GitHub Issues: [https://github.com/HELLOMEDHIRA/medhira-rn-typescript-hooks/issues](https://github.com/HELLOMEDHIRA/medhira-rn-typescript-hooks/issues)
-- LinkedIn: [@medhira](https://www.linkedin.com/company/medhira)
+- LinkedIn: [@medhira](https://www.linkedin.com/in/smunihairsh)
 
 ## License
 
